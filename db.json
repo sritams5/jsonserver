@@ -1,3 +1,8 @@
 {
-  "boards": []
+  "boards": [
+    {
+      "data": "[{\"name\":\"TeamBoard\",\"lists\":[{\"name\":\"L1\",\"cards\":[{\"name\":\"c1\"},{\"name\":\"C3\"}]},{\"name\":\"L2\",\"cards\":[{\"name\":\"C4\"},{\"name\":\"C2\"}]},{\"name\":\"L3\",\"cards\":[{\"name\":\"C5\"}]}]},{\"name\":\"LeadBoard\",\"lists\":[{\"name\":\"task 1\",\"cards\":[{\"name\":\"card 1 1\"}]},{\"name\":\"task 2\",\"cards\":[{\"name\":\"card 2\"}]},{\"name\":\"task 3\",\"cards\":[{\"name\":\"card 3\"}]}]}]",
+      "id": 1
+    }
+  ]
 }
